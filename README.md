@@ -23,3 +23,4 @@ For development, standard .NET 6 toolchains are required. The project structure 
 ## License
 
 Dual licensed: MIT License with Microsoft exemptions.
+
